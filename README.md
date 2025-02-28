@@ -70,6 +70,11 @@ RegressAPI/
     - Validate response status codes, headers, and body content.
     - JSON schema validation for structured API responses.
 
+
+## 🎥 Project Demo
+Check out the full project demonstration video here:  
+📺 **[Watch Demo](https://drive.google.com/file/d/1h8K0E-ca7SLuP8ylFHmEQ3xWYb6loWyq/view?usp=sharing)**  
+
 This project represents a **significant step in API test automation**, integrating **RestAssured and TestNG** to streamline API validation. Through the implementation of **best practices in API automation**, the project aims to:
 
 - ✅ **Automate Reqres API functionalities**, including user and resource management operations.
